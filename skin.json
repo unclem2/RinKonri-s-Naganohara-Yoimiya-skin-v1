@@ -1,0 +1,40 @@
+{
+    "ComboColor" : {
+        "forceOverride" : true,
+        "colors" : ["#E02A6B", "#9569FF"]
+    },
+    "Slider" : {
+        "sliderFollowComboColor" : false,
+        "sliderBorderColor" : "#FFFFFF",
+        "sliderBodyColor" : "#C0C0C0",
+        "sliderBodyBaseAlpha" : 0.25,
+        "sliderHintEnable": true,
+        "sliderHintAlpha" : 0.2,
+        "sliderHintWidth" : 3,
+        "sliderHintShowMinLength" : 300
+    },
+    "Utils" : {
+        "limitComboTextLength" : false,
+        "disableKiai" : true
+    },
+    "Layout" : {
+        "BackButton" : {
+            "scaleWhenHold" : false
+        },
+        "ModsButton" : {
+            "scale" : 1.0
+        },
+        "OptionsButton" : {
+            "scale" : 1.0
+        },
+        "RandomButton" : {
+            "scale" : 1.0
+        }
+    },
+    "Color" : {
+        "MenuItemDefaultColor" : "#D97600/",
+        "MenuItemVersionsDefaultColor" : "#0898CA",
+        "MenuItemSelectedTextColor" : "#87CEEB",
+        "MenuItemDefaultTextColor" : "#FFFFFF"
+    }
+}

@@ -1,7 +1,7 @@
 {
     "ComboColor" : {
         "forceOverride" : true,
-        "colors" : ["#FF8400", "#B22222"]
+        "colors" : ["#ff8400", "#b22222"]
     },
     "Slider" : {
         "sliderFollowComboColor" : false,
